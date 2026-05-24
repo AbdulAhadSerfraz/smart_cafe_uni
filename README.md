@@ -152,3 +152,5 @@ The project uses plain text files in data/ for persistence, making it easy to in
 - ADVANTAGES OF THE SMART CAFE ORDERING SYSTem
 Easy to run: simple python smart_cafe/main.py entry point.
 Clear structure: separate modules for menu, orders, billing, auth, and utilities.
+User roles: supports Admin and Staff workflows with login control.
+Dynamic menu management: add, update, delete, and search menu items without code changes.
