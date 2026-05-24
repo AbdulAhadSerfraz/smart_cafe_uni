@@ -116,3 +116,9 @@ python smart_cafe/main.py
 - Run the app from the smart_cafe/ folder to ensure relative file paths resolve correctly.
 - Confirm data/menu.txt, data/orders.txt, and data/users.txt exist before starting the program.
 - Use a Python 3.8+ environment to avoid compatibility issues with type hints and file handling.
+- 
+- ## Development Tips
+
+- Edit data/menu.txt to add or update menu items without changing code.
+- Back up data/orders.txt before testing order flow to preserve sample order history.
+- Extend auth.py if you want to support multiple staff or admin users with different passwords.
