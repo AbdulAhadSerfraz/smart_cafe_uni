@@ -110,3 +110,9 @@ python smart_cafe/main.py
 - **Encapsulation** - Private attributes with getter/setter method
 - **Composition** - Order contains OrderItem objects; SmartCafe contains Menu, OrderManager, AuthSystem
 - **Polymorphism** - get_role() overridden in Customer and Staff
+- 
+- # Deployment Notes
+
+- Run the app from the smart_cafe/ folder to ensure relative file paths resolve correctly.
+- Confirm data/menu.txt, data/orders.txt, and data/users.txt exist before starting the program.
+- Use a Python 3.8+ environment to avoid compatibility issues with type hints and file handling.
