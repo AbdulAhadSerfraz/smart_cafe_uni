@@ -148,3 +148,7 @@ The project uses plain text files in data/ for persistence, making it easy to in
 - Edit `data/menu.txt` to add or update menu items without changing code.
 - Back up `data/orders.txt` before testing order flow to preserve sample order history.
 - Extend `auth.py` if you want to support multiple staff or admin users with different passwords.
+- 
+- ADVANTAGES OF THE SMART CAFE ORDERING SYSTem
+Easy to run: simple python smart_cafe/main.py entry point.
+Clear structure: separate modules for menu, orders, billing, auth, and utilities.
