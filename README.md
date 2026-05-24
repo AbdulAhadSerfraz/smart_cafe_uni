@@ -33,7 +33,7 @@ smart_cafe/
 ```
 
 ## How to Run
-
+Basically run the following command after cloning the git repository in the terminal 
 ```bash
 python smart_cafe/main.py
 ```
