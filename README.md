@@ -32,7 +32,7 @@ smart_cafe/
 └── README.md
 ```
 
-## How to Run
+## How to Run that project
 Basically run the following command after cloning the git repository in the terminal 
 ```bash
 python smart_cafe/main.py
@@ -45,7 +45,7 @@ python smart_cafe/main.py
 | Admin  | admin    | admin123   |
 | Staff  | staff1   | staff123   |
 
-## Screenshots
+## Screenshots of running project
 
 ### 1. Welcome Screen (Main Menu)
 
