@@ -122,3 +122,10 @@ python smart_cafe/main.py
 - Edit data/menu.txt to add or update menu items without changing code.
 - Back up data/orders.txt before testing order flow to preserve sample order history.
 - Extend auth.py if you want to support multiple staff or admin users with different passwords.
+- 
+- # Future Improvements
+
+- Add a graphical user interface with Tkinter or a web frontend using Flask.
+- Support order history search by customer name, date, or order status.
+- Add role-based access control so Admin and Staff have different permission levels.
+- Replace file-based storage with SQLite or JSON for more scalable data handling.
