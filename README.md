@@ -158,3 +158,6 @@ Dynamic menu management: add, update, delete, and search menu items without code
 Billing features: calculates discounts, tax
 [10:56 am, 24/05/2026] u: Billing features: calculates discounts, tax, and loyalty rewards automatically.
 Persistence: stores data in plain text files, making it easy to inspect and edit.
+Good learning example: demonstrates OOP concepts like inheritance, composition, and polymorphism.
+Extensible: designed so UI, storage, or user management can be upgraded later
+
