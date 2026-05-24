@@ -1,0 +1,30 @@
+D001|Espresso|3.5|Drinks
+D002|Cappuccino|4.5|Drinks
+D003|Latte|5.0|Drinks
+D004|Mocha|5.5|Drinks
+D005|Hot Chocolate|4.0|Drinks
+D006|Iced Tea|3.0|Drinks
+D007|Fresh Orange Juice|4.5|Drinks
+D008|Mineral Water|2.0|Drinks
+F001|Chicken Burger|6.5|Fast Food
+F002|Beef Burger|7.0|Fast Food
+F003|Veggie Burger|5.5|Fast Food
+F004|French Fries|3.5|Fast Food
+F005|Chicken Wrap|6.0|Fast Food
+F006|Hot Dog|4.5|Fast Food
+F007|Club Sandwich|5.5|Fast Food
+F008|Pizza Slice|4.0|Fast Food
+S001|Chocolate Brownie|4.5|Desserts
+S002|Cheesecake|6.0|Desserts
+S003|Ice Cream|3.5|Desserts
+S004|Fruit Salad|4.0|Desserts
+S005|Apple Pie|5.0|Desserts
+S006|Pancakes|6.5|Desserts
+D009|Smoothie|5.5|Drinks
+D010|Milkshake|6.0|Drinks
+D011|Green Tea|2.5|Drinks
+F009|Fish and Chips|7.5|Fast Food
+F010|Nachos|5.0|Fast Food
+F011|Onion Rings|3.5|Fast Food
+S007|Tiramisu|6.5|Desserts
+S008|Waffles|5.5|Desserts
