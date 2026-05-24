@@ -93,7 +93,7 @@ python smart_cafe/main.py
 
 *Full menu displayed by category (Drinks, Fast Food, Desserts)*
 
-## How to Capture Screenshots
+## How to Capture Screenshots of the ruuning code
 
 1. Run the program: `python smart_cafe/main.py`
 2. Take screenshots using:
@@ -107,6 +107,6 @@ python smart_cafe/main.py
 
 - **Classes & Objects** - MenuItem, Order, Customer, Staff, etc.
 - **Inheritance** - Person > Customer, Person > Staff
-- **Encapsulation** - Private attributes with getter/setter methods
+- **Encapsulation** - Private attributes with getter/setter method
 - **Composition** - Order contains OrderItem objects; SmartCafe contains Menu, OrderManager, AuthSystem
 - **Polymorphism** - get_role() overridden in Customer and Staff
