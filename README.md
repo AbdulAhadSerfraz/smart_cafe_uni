@@ -154,3 +154,7 @@ Easy to run: simple python smart_cafe/main.py entry point.
 Clear structure: separate modules for menu, orders, billing, auth, and utilities.
 User roles: supports Admin and Staff workflows with login control.
 Dynamic menu management: add, update, delete, and search menu items without code changes.
+[10:56 am, 24/05/2026] u: Order tracking: manages order status and provides a summary before payment.
+Billing features: calculates discounts, tax
+[10:56 am, 24/05/2026] u: Billing features: calculates discounts, tax, and loyalty rewards automatically.
+Persistence: stores data in plain text files, making it easy to inspect and edit.
