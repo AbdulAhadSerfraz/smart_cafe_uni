@@ -136,3 +136,9 @@ This project is designed to demonstrate practical command-line application archi
 The project uses plain text files in data/ for persistence, making it easy to inspect and modify data without a database.
 - The system validates user inputs and handles file I/O errors gracefully to prevent crashes during normal operation.
 - Loyalty points are awarded for each successful order and can be used to calculate discounts on future purchases.
+- 
+- ## Deployment Notes
+
+- Run the app from the `smart_cafe/` folder to ensure relative file paths resolve correctly.
+- Confirm `data/menu.txt`, `data/orders.txt`, and `data/users.txt` exist before starting the program.
+- Use a Python 3.8+ environment to avoid compatibility issues with type hints and file handling.
