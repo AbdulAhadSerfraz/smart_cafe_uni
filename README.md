@@ -129,3 +129,6 @@ python smart_cafe/main.py
 - Support order history search by customer name, date, or order status.
 - Add role-based access control so Admin and Staff have different permission levels.
 - Replace file-based storage with SQLite or JSON for more scalable data handling.
+- # Summary
+
+This project is designed to demonstrate practical command-line application architecture, with clear separation between menu management, orders, billing, and authentication. It is a strong example for lab reports because it balances object-oriented design with real-world workflow features.
