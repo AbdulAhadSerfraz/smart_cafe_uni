@@ -1,8 +1,8 @@
-# Smart Cafe Ordering System
+# Smart Cafe Ordering System for the lab project
 
 A console-based Cafe Management System built with Python for university Software Engineering lab exam.
 
-## Features
+## Features of our projects
 
 - Customer ordering with interactive menu browsing
 - Staff/Admin panel with login system
